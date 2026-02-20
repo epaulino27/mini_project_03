@@ -1,4 +1,3 @@
-# mini_project_03
 # Dummy OmegaMart
 By Esperanza Paulino
 
