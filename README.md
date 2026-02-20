@@ -1,8 +1,10 @@
 # mini_project_03
-Dummy OmegaMart
+# Dummy OmegaMart
 By Esperanza Paulino
 
-Live Link:
+This is a simple dummy grocery store app where you can add and remove any quantity of items from your cart. It's modeled using items from a real life art experience called OmegaMart in which all items in the store are fake products or art works meant to mimic products. 
+
+Live Link: https://miniproject03.netlify.app/
 
 Components: 
 1. Item
